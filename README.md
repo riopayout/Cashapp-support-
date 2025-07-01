@@ -68,9 +68,102 @@ npx create-openapi-repo --migrate-2-3
 The interactive prompts allow you to specify the path to the file on your local machine, as well as rename the API (optional). After you choose to proceed, `create-openapi-repo` initializes the repository and splits your OpenAPI definition into multiple files.
 
 ### Create a new OpenAPI definition
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asonex - The Stone of Clarity</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            background: #f4f4f9;
+            color: #333;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            border-radius: 10px;
+        }
+        h1, h2 {
+            color: #4B0082;
+        }
+        ul {
+            list-style-type: disc;
+            padding-left: 20px;
+        }
+        .footer {
+            margin-top: 40px;
+            font-size: 0.9em;
+            color: #888;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Asonex: The Stone of Clarity and Connection</h1>
+        <p>In the ever-expanding world of rare gems and spiritual talismans, a new name is beginning to shimmer in mystic circles and artisan workshops: <strong>Asonex</strong>.</p>
 
-The interactive prompts allow you to specify a name for the API and choose whether to create a sub-folder for code sample files. After you choose to proceed, `create-openapi-repo` initializes the repository and populates it with placeholder files and folders. 
+        <h2>What Is Asonex?</h2>
+        <p><em>Asonex</em> is a fictional but beautifully imagined gemstone known for its soft transitions between <strong>violet and sapphire</strong> hues. It is said to radiate calm, balance, and heightened awareness to those who hold or wear it.</p>
 
+        <h2>The Meaning Behind the Name</h2>
+        <p>The name <em>Asonex</em> is a fusion of ancient roots:</p>
+        <ul>
+            <li><strong>Asō</strong> – an old term for <em>light</em></li>
+            <li><strong>Nexis</strong> – meaning <em>connection</em> or <em>link</em></li>
+        </ul>
+        <p>Together, they suggest a stone that bridges the spiritual and emotional, allowing its wearer to find clarity in chaos.</p>
+
+        <h2>Cultural Lore & Symbolism</h2>
+        <p>According to modern fantasy lore, Asonex is found only in deep caverns beneath sacred mountains, protected by elemental spirits. It’s considered a sacred gem for <strong>scholars, healers, and seekers of truth</strong>.</p>
+        <p>Many believe that Asonex helps:</p>
+        <ul>
+            <li>Sharpen focus during meditation</li>
+            <li>Ease emotional tension</li>
+            <li>Stimulate insight during problem-solving or creative work</li>
+        </ul>
+
+        <h2>Design and Aesthetic</h2>
+        <p>Asonex jewelry typically features:</p>
+        <ul>
+            <li>Smooth, polished cabochons</li>
+            <li>Minimalist silver or black-gold settings</li>
+            <li>Engravings of the third eye or light symbols</li>
+        </ul>
+
+        <p><strong>Is Asonex real?</strong> Yes—and it <em>could be</em>. Like many great myths, Asonex is a story, a symbol, and a space for imagination to thrive.</p>
+
+        <!-- CashApp Supporter Section Start -->
+        <div style="max-width:400px;margin:40px auto 0 auto;padding:30px 24px;background:#fff;border-radius:10px;box-shadow:0 2px 12px rgba(0,0,0,0.07);text-align:center;">
+          <h2 style="color:#00d632;margin-bottom:0.5em;">Support Us via CashApp</h2>
+          <p>Like our project? Consider supporting us!</p>
+          <a href="https://cash.app/$cashappsupportteam" target="_blank" 
+             style="display:inline-block;background:#00d632;color:#fff;font-weight:bold;padding:12px 32px;border-radius:8px;text-decoration:none;font-size:1.15em;margin:18px 0;">
+            $cashappsupportteam
+          </a>
+          <div style="color:#888;font-size:0.93em;margin-top:1.5em;">
+            Or find us in CashApp by searching for <strong>$cashappsupportteam</strong>.
+          </div>
+          <div style="color:#aaa;font-size:0.9em;margin-top:1.2em;">
+            Questions? <a href="mailto:support@example.com" style="color:#00d632;text-decoration:underline;">Contact us</a>
+          </div>
+        </div>
+        <!-- CashApp Supporter Section End -->
+
+        <div class="footer">
+            &copy; 2025 Asonex Cruze. All rights reserved.
+        </div>
+    </div>
+</body>
+</html>
 ## Directory structure
 
 The directory structure will look similar to this:
